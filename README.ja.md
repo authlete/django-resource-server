@@ -48,8 +48,8 @@ Authlete について
 
 1. authlete-python ライブラリと authlete-python-django ライブラリをインストールします。
 
-        $ pip install authlete-python
-        $ pip install authlete-python-django
+        $ pip install authlete
+        $ pip install authlete-django
 
 2. このリソースサーバーの実装をダウンロードします。
 
