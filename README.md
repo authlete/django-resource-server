@@ -176,7 +176,7 @@ Contact Form : https://www.authlete.com/contact/
 [AuthleteOverview]:       https://www.authlete.com/developers/overview/
 [AuthletePython]:         https://github.com/authlete/authlete-python/
 [AuthletePythonDjango]:   https://github.com/authlete/authlete-python-django/
-[AuthleteSignUp]:         https://login.authlete.com/signup
+[AuthleteSignUp]:         https://console.authlete.com/register
 [DeveloperConsole]:       https://www.authlete.com/developers/cd_console/
 [Django]:                 https://www.djangoproject.com/
 [DjangoOAuthServer]:      https://github.com/authlete/django-oauth-server/
