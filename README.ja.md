@@ -174,7 +174,7 @@ Authlete 固有の情報については、[Protected Resource][ProtectedResource
 [AuthleteOverview]:       https://www.authlete.com/ja/developers/overview/
 [AuthletePython]:         https://github.com/authlete/authlete-python/
 [AuthletePythonDjango]:   https://github.com/authlete/authlete-python-django/
-[AuthleteSignUp]:         https://so.authlete.com/accounts/signup
+[AuthleteSignUp]:         https://login.authlete.com/signup
 [DeveloperConsole]:       https://www.authlete.com/developers/cd_console/
 [Django]:                 https://www.djangoproject.com/
 [DjangoOAuthServer]:      https://github.com/authlete/django-oauth-server/
